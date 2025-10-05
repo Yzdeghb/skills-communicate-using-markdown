@@ -8,5 +8,6 @@ javascript
 var myVar = "Hello, world!";
 
 c
-int a="666";
+int a=666;
 printf("%d",a);//只是文本输出
+
