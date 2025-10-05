@@ -6,8 +6,3 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 javascript
 var myVar = "Hello, world!";
-
-c
-int a=666;
-printf("%d",a);//只是文本输出
-
